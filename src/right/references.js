@@ -3,7 +3,7 @@ import React from "react";
 function References() {
   return (
     <div className="big-card">
-      <div className="peach-heading">References</div>
+      <div className="teal-heading">References</div>
       <div>
         <p className="p">
           <div className="text-r">Katie Smith</div>

@@ -3,7 +3,7 @@ import React from "react";
 function Experience() {
   return (
     <div className="big-card">
-      <div className="peach-heading">Professional Experience</div>
+      <div className="teal-heading">Professional Experience</div>
       <table className="ref-table">
         <tr>
           <td className="td-v-line">
