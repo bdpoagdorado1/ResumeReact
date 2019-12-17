@@ -1,2 +1,0 @@
-# ResumeReact
-Created with CodeSandbox
